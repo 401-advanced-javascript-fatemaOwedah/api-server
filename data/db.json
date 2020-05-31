@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "name": "novel",
+      "display_name": "story",
+      "description": "good",
+      "id": "Ma6pyIJ"
+    },
+    {
+      "name": "art",
+      "display_name": "paint",
+      "description": "beaty",
+      "id": "M2jkSbo"
+    },
+    {
+      "name": "story",
+      "display_name": "Sam and beans",
+      "description": "beatfull",
+      "id": "gqvSMsj"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "category": "book",
+      "name": "written book",
+      "display_name": "novel",
+      "description": "you can buy it."
+    },
+    {
+      "category": "drink",
+      "name": "Tea",
+      "display_name": "libton",
+      "description": "delecious",
+      "id": "DVKgH7n"
+    },
+    {
+      "category": "drink",
+      "name": "coffee",
+      "display_name": "black",
+      "description": "delecious",
+      "id": "H353bZU"
+    }
+  ]
+}

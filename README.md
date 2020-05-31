@@ -44,6 +44,7 @@
 ### Links and Resources
 
 - [submission PR](https://github.com/401-advanced-javascript-fatemaOwedah/api-server/pull/1)
+- [Swagger Link](https://app.swaggerhub.com/apis/fatima95/lab-06/0.1#trial)
 
 
 #### Documintation
@@ -57,7 +58,7 @@
 
 #### How to initialize/run your application 
 
--  `json-server --watch db.json --id=_id`
+-  `json-server --watch db.json`
   -Returns json file
 
 #### How do I install the app or library
@@ -67,5 +68,3 @@
 
 
 #### UML
-
-![UML Digram](/assest/uml-Classes.jpeg)
